@@ -1,8 +1,6 @@
-/* 
- * Samuel Zrna | sez160230
- * 4365.002
- * Programming Assignment 1
- * 19 October 2018
+/**
+ *
+ * @author samuel.zrna
  */
 
 package RBFS;
